@@ -1,4 +1,4 @@
-# Adaptive Aviation RAG
+# Adaptive RAG
 
 A self-correcting multi-agent RAG system that intelligently retrieves and validates answers. Features hybrid retrieval combining vectorstore with web search via Tavily, automatic query transformation for improved results, hallucination detection, and smart document grading to ensure accuracy at every stage.
 
