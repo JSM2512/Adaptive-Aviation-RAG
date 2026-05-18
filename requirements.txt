@@ -1,0 +1,27 @@
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+faiss-cpu
+streamlit
+python-dotenv
+pydantic
+tiktoken
+tavily-python
+langchain-classic
+rank_bm25
+langchainhub
+langsmith
+
+
+# To activate this environment, use
+#
+#     $ conda activate venvrag/
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+# pip install -r requirements.txt
